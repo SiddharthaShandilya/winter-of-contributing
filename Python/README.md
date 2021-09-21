@@ -32,3 +32,8 @@
 6. Virtual Environment
 7. Operators
 8. List_&_Matrix
+
+
+### Happy Contributions!
+
+[![ForTheBadge built-by-developers](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
