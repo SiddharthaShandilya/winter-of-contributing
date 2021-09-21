@@ -4,6 +4,13 @@
 3. The learning path should act as a roadmap to the learners. The learners should not be clueless after coming to the repository.
     -->
 
+![](https://gwoc.girlscript.tech/assets/gwoc_logo_forweb.png)
+
+
+<h1 align="center"> :fleur_de_lis: PYTHON :fleur_de_lis: </h1>
+
+
+
 # Title (name of the field)
 
 ## Index
